@@ -1,4 +1,5 @@
-# django_reg_login_crud_template
+
+For the benefit of the students of the course
 
 django register+login + CRUD template 
 
